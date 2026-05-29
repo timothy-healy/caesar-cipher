@@ -22,8 +22,13 @@ The attempt with the highest score is the one chosen.
 ## Usage
 python caesar.py
 Enter 1 for encrypting, 2 for decrypting, 3 for breaking, 4 to quit.
+
 1
+
 What message would you like to encrypt? the quick brown fox jumps over the lazy dog
+
 Enter your desired shift: 7
+
 Encrypted message (hex):
+
 7b6f6c27787c706a72276979767e75276d767f27717c74777a27767d6c79277b6f6c2773688180276b766e
